@@ -8,3 +8,4 @@ Lab Description:  For this assignment, you will create a drawing program that wi
 Task One – Determine how to use an array to store key presses.
 Task Two – Determine how to move the pen around the screen as each key is pressed.
 Task Three – Add in code to clear the screen and reset the pen to the center of the screen when the space bar is pressed.
+
